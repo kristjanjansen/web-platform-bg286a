@@ -1,3 +1,8 @@
+* {
+  all: unset;
+  display: revert;
+}
 body {
   background: orange;
+  padding: 32px;
 }
